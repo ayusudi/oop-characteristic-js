@@ -1,0 +1,1 @@
+# oop-characteristic-js
