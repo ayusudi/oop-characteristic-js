@@ -1,5 +1,5 @@
 # OOP Characteristic JS 
-
+ 
 ## INDEX
 ```js
 class Smartphone {
